@@ -39,7 +39,6 @@ apis:
   - name: Carbon Interface
     description: "API to calculate carbon (C02) emissions estimates for common C02 emitting activities"
     humanURL: https://docs.carboninterface.com/
-    baseURL: https://docs.carboninterface.com/
     tags:
       - Environment
     properties:
